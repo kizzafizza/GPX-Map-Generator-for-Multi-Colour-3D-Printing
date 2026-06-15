@@ -1,0 +1,10 @@
+gpxpy
+osmnx
+geopandas
+shapely
+numpy
+trimesh
+pyvista
+mapbox-vector-tile
+pyproj
+mapbox-earcut
